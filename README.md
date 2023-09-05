@@ -1,5 +1,5 @@
 # WRM
- WMR data craping and mapping
+ WMR data scraping and mapping
 
 
 
